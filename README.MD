@@ -1,4 +1,4 @@
-🔎 About Data Analysis with Python
+🔎 About 
 
 Python for Data Analysis is one of the most influential for learning practical data analysis using Python.
 
@@ -138,6 +138,14 @@ Summaries & trends	Model building
 Visualization	Optimization
     
 Small to medium data	Often large data
+
+
+
+
+
+
+
+
 
 
 
